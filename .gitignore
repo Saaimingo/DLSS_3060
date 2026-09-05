@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+balancer.log
+*.bak
+nvngx_dlss*.dll
+nvngx_dlssnr*.dll
+fatbin_*/
+work_dir/
+.venv/

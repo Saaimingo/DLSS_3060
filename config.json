@@ -1,0 +1,11 @@
+{
+  "target_fps": 60,
+  "min_fps": 45,
+  "sampling_ms": 500,
+  "render_scales": [77, 66, 58, 50],
+  "labels": ["Ultra Quality", "Quality", "Balanced", "Performance"],
+  "hysteresis_frames": 6,
+  "log_file": "balancer.log",
+  "reshade_ini": "C:/Program Files (x86)/Steam/steamapps/common/CONTROL/reshade.ini",
+  "preset_ini": "ReShadePreset.ini"
+}
