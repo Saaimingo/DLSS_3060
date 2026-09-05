@@ -6,6 +6,10 @@
   "labels": ["Ultra Quality", "Quality", "Balanced", "Performance"],
   "hysteresis_frames": 6,
   "log_file": "balancer.log",
-  "reshade_ini": "C:/Program Files (x86)/Steam/steamapps/common/CONTROL/reshade.ini",
-  "preset_ini": "ReShadePreset.ini"
+  "reshade_ini": "C:/Program Files (x86)/Steam/steamapps/common/RESIDENT EVIL 4  BIOHAZARD RE4/ReShade.ini",
+  "preset_ini": "C:/Program Files (x86)/Steam/steamapps/common/RESIDENT EVIL 4  BIOHAZARD RE4/ReShadePreset.ini",
+  "game": "RE4",
+  "game_exe": "C:/Program Files (x86)/Steam/steamapps/common/RESIDENT EVIL 4  BIOHAZARD RE4/re4.exe",
+  "dlssnr_version": "310.8.SF-v2",
+  "dlss_version": "310.9.0"
 }
